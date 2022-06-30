@@ -1,0 +1,4 @@
+hi guys 
+welcome to basic 
+basic command of linux
+day 2 grep command

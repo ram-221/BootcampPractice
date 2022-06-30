@@ -1,0 +1,6 @@
+fristName              lastName          age        city               ID 
+bS Yadiyurapp          yadiyurapp        77        Shivamogga          456
+Basanagoud             yatnal            58        Vijayapur           766
+Pratap                 simha             43        Mysur               973
+P Rajiv                Rajiv             45        Belagav             635
+Pritam                 Hasan             42        hasan               752
